@@ -31,6 +31,7 @@
     "prebuild": "npx expo prebuild"
   },
   "dependencies": {
+    "@5stones/react-native-track-player": "^4.0.0-web.10",
     "@expo-google-fonts/space-grotesk": "^0.2.2",
     "@expo/metro-config": "~0.10.0",
     "@expo/webpack-config": "^19.0.0",
